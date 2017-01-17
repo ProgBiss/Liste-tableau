@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1446258440 source:c:\users\nicolas\documents\nico\travaux\c\liste_tableau\liste_tableau.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"liste_tableau.h"
+
+1446157655 c:\users\nicolas\documents\nico\travaux\c\liste_tableau\liste_tableau.h
+	<stdbool.h>
+
+1447355835 source:c:\users\nicolas\documents\nico\travaux\c\devoir3\liste_tableau\liste_tableau.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"liste_tableau.h"
+
+1447353462 c:\users\nicolas\documents\nico\travaux\c\devoir3\liste_tableau\liste_tableau.h
+	<stdbool.h>
+

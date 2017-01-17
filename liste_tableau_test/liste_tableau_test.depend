@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1447355835 source:c:\users\nicolas\documents\nico\travaux\c\devoir3\liste_tableau_test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"liste_tableau.h"
+
